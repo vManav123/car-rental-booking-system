@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crb-bank-svc/bank.iml" filepath="$PROJECT_DIR$/crb-bank-svc/bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-rental-booking-system.iml" filepath="$PROJECT_DIR$/car-rental-booking-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crb-user-svc/user.iml" filepath="$PROJECT_DIR$/crb-user-svc/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crb-vehicle-svc/vehicle.iml" filepath="$PROJECT_DIR$/crb-vehicle-svc/vehicle.iml" />
+    </modules>
+  </component>
+</project>
